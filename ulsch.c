@@ -21,7 +21,7 @@ const int   rule[][2] = { {-1, 0},		//  上				//	访问规则（访问规则）
 {0, 1} };		//	右
 MapPos fromPos, endPos;										//	起始节点、目的节点
 int m = 0, n = 0;											//	输入地图的行列数
-
+hello, lyf
 void Input( int m, int n );
 int IsAccess( const MapPos *pos );
 int Bfs( MapPos SrcPos, MapPos DstPos );
