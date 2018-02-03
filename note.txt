@@ -1,2 +1,6 @@
 
-this is my file, and liyufeng use git first time.
+this is my file, and liyufeng use git first time, this may be hard.
+
+
+
+and i add some file into it.
